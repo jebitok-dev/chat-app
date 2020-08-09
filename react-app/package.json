@@ -1,5 +1,6 @@
 {
   "name": "cool-chat",
+  "homepage": "https://github.com/jebitok-dev/chat-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
