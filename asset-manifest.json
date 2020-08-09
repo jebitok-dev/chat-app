@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/jebitok-dev/chat-app/static/css/main.6c15062c.chunk.css",
+    "main.js": "/jebitok-dev/chat-app/static/js/main.6cc23cd4.chunk.js",
+    "main.js.map": "/jebitok-dev/chat-app/static/js/main.6cc23cd4.chunk.js.map",
+    "runtime-main.js": "/jebitok-dev/chat-app/static/js/runtime-main.0390e11e.js",
+    "runtime-main.js.map": "/jebitok-dev/chat-app/static/js/runtime-main.0390e11e.js.map",
+    "static/css/2.e05706cb.chunk.css": "/jebitok-dev/chat-app/static/css/2.e05706cb.chunk.css",
+    "static/js/2.61887233.chunk.js": "/jebitok-dev/chat-app/static/js/2.61887233.chunk.js",
+    "static/js/2.61887233.chunk.js.map": "/jebitok-dev/chat-app/static/js/2.61887233.chunk.js.map",
+    "index.html": "/jebitok-dev/chat-app/index.html",
+    "precache-manifest.e52cd7487683bd1dd4e92648f0a2f228.js": "/jebitok-dev/chat-app/precache-manifest.e52cd7487683bd1dd4e92648f0a2f228.js",
+    "service-worker.js": "/jebitok-dev/chat-app/service-worker.js",
+    "static/css/2.e05706cb.chunk.css.map": "/jebitok-dev/chat-app/static/css/2.e05706cb.chunk.css.map",
+    "static/css/main.6c15062c.chunk.css.map": "/jebitok-dev/chat-app/static/css/main.6c15062c.chunk.css.map",
+    "static/js/2.61887233.chunk.js.LICENSE.txt": "/jebitok-dev/chat-app/static/js/2.61887233.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/jebitok-dev/chat-app/static/media/1.ae68a6da.jpg",
+    "static/media/notifications.css": "/jebitok-dev/chat-app/static/media/notification.c0d3c94c.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0390e11e.js",
+    "static/css/2.e05706cb.chunk.css",
+    "static/js/2.61887233.chunk.js",
+    "static/css/main.6c15062c.chunk.css",
+    "static/js/main.6cc23cd4.chunk.js"
+  ]
+}
